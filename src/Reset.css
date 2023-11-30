@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Cinzel&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nanum+Myeongjo&display=swap');
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    list-style: none;
+}
+
+
+
+body {
+    background: rgba(255, 255, 255, 0.84);
+    font-family: 'Cinzel', serif;
+    font-family: 'Nanum Myeongjo', serif;
+}
+
+h4 {
+    color: #000;
+    font-family: Cinzel;
+    font-size: 37px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+p {
+    color: #000;
+    font-family: 'Cinzel', serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.Link {
+    color: #000;
+
+    /* Nanum paragraph 16px */
+    font-family: NanumMyeongjo;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+h6 {
+    color: rgba(0, 0, 0, 0.52);
+    font-family: NanumMyeongjo;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}

@@ -1,0 +1,46 @@
+.Header {
+    display: flex;
+    justify-content: center;
+    position: absolute;
+    top: 303px;
+    right: 0;
+    left: 0;
+}
+
+.Title-Header {
+    width: 1055px;
+    height: 200px;
+}
+
+.Icon-Swipe {
+    display: flex;
+    width: 62px;
+    gap: 6px;
+    flex-direction: column;
+    align-items: center;
+    position: absolute;
+    top: 400px;
+    cursor: pointer;
+}
+
+.Contacts {
+    display: inline-flex;
+    position: absolute;
+    top: 400px;
+    right: 90px;
+    flex-direction: column;
+    align-items: flex-end;
+    gap: 12px;
+}
+
+.name {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+}
+
+.Icons {
+    display: flex;
+    align-items: center;
+    gap: 24px;
+}
